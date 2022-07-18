@@ -42,9 +42,7 @@ Você pode fazer transferências internas para essa conta:
 
 A Stone possui uma API de [OpenBanking](https://en.wikipedia.org/wiki/Open_banking) que estamos testando e evoluindo continuamente. O link para a documentação de referência é https://docs.openbank.stone.com.br/. 
 
-Queremos que você use esta API para nos mostrar como iria automatizar as várias formas de se inferir qualidade das entregas.
-
-Por exemplo: temos um endpoint para simular uma transação interna em `api/v1/dry_run/internal_transfers`. Queremos que você proponha uma solução de automação neste ambiente de "sandbox" da API. 
+Queremos que você use esta API para nos mostrar como iria planejar e levantar os cenários de testes aplicando as principais técnicas de testes.
 
 Espera-se que você faça a automação de 3 endpoints:
 
